@@ -32,7 +32,7 @@ applications if necessary.
 
 The software automatically finds other nodes to connect to.  You can
 enable Universal Plug and Play (UPnP) with your router/firewall
-or forward port 12788 (TCP) to your computer so you can receive
+or forward port 14700 (TCP) to your computer so you can receive
 incoming connections.  Ohm works without incoming connections,
 but allowing incoming connections helps the Ohm network.
 
