@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Ohm
+Comment=Ohm P2P Cryptocurrency
+Comment[fr]=Ohm, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Ohm, eşten eşe kriptografik sanal para birimi
+Comment[es]=Ohm, una criptomoneda P2P
+Exec=/usr/bin/Ohm-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Ohm;
+Categories=Office;

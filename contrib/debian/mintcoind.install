@@ -1,0 +1,2 @@
+debian/bin/Ohmd usr/bin
+src/Ohmd usr/lib/Ohm
