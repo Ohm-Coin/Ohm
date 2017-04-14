@@ -935,7 +935,7 @@ int generateMTRandom(unsigned int s, int range)
 
 
 
-static const int64 nMinSubsidy = 100091 * COIN;
+static const int64 nMinSubsidy = 850000 * COIN;
 static const int CUTOFF_HEIGHT = 1;	// 
 // miner's coin base reward based on nBits
 int64 GetProofOfWorkReward(int nHeight, int64 nFees, uint256 prevHash)
