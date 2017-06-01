@@ -13,3 +13,8 @@
 - Ports: 14700 (connection) and 14600 (RPC)
 - 500 million total coins
 
+
+Addnode=162.243.110.105
+Addnode=192.241.254.184
+Addnode=167.114.117.96
+
